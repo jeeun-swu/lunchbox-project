@@ -518,3 +518,10 @@ img {
 #topBtn:hover {
   color: #78c2ad;
 }
+
+#logo{
+  font-family: "Orbit", sans-serif;
+font-weight: 600;
+font-style: normal;
+color: #78c2ad;
+}
